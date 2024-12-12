@@ -1,0 +1,664 @@
+{
+  "pageid": 40021,
+  "ns": 0,
+  "title": "Yellow fever",
+  "extract": "Yellow fever is a potentially fatal tropical disease caused by a virus that is transmitted to humans through the bite of infected mosquitoes. Illness ranges in severity from an influenza-like syndrome to severe hepatitis and hemorrhagic fever. Yellow fever can be prevented by vaccination. Travellers to areas with yellow fever transmission should take precautions against exposure to mosquitoes.\n\n\nUnderstand\nCountries where yellow fever is endemic - with CDC vaccination recommendation (may be abbreviated) as of 2017 in brackets - are below. \"High-risk\" travellers are a small fraction of travellers whose travel plans or lifestyle expose them to more mosquito bites than average.\n\nAfrica\n\nCentral America & South America\n\n\nVaccination\nA vaccine is available which provides immunity for at least ten years. Many countries will require that you be vaccinated against yellow fever if you are coming from a country where it is present or have been in such a country within the last 6 days (the incubation period). If this is the case you will need to present a \"World Health Organization International Certificate of Vaccination\" with an appropriately dated certification on the \"International Certificate of Vaccination or Revaccination Against Yellow Fever\" page to immigration officials. This little yellow booklet will be given to you when you are vaccinated against yellow fever for the first time, which is valid for life. Carry it with your passport: you'll typically present them to immigration officials at the same time.\nIt is generally easiest to get a yellow fever vaccination in your home country before you leave on your trip. The vaccination is not in the normal vaccination schedules of many countries outside the infected areas since it is unnecessary unless you are travelling and has a somewhat higher risk of complications than many other vaccines. You will need to especially request a yellow fever vaccination from a designated yellow fever vaccination center. Immunity is considered to start 10 days from the time of the vaccination, so be sure to get vaccinated 10 days before you enter an infected country. The vaccine is live and not entirely inactive: many people have mild flu-like symptoms for a couple of days after receiving this vaccine, so it would be good not to be planning anything strenuous in those days.\nDepending on how the vaccine is cultivated, you may need to allow about half an hour for a yellow fever vaccination as you will be observed for an allergic reaction after it is administered.\n\n\nVaccination requirements\n\nSome countries have mandatory yellow fever vaccination requirements. The exact requirements vary from country to country and may also vary from time to time. The following is a list of countries and territories which had yellow fever vaccination requirements as of 2017 according to the CDC. Countries requiring proof of vaccination upon arrival from all other countries (as opposed to only upon arrival from endemic countries) for all travellers more than one year old are marked below.\nAmong countries that require it upon arrival from endemic zones, some exclude a few individual countries or regions from this requirement, so look up the details for your specific destination or destinations. Some even require the vaccine if you change planes in an endemic country, even if you don't leave the airport. Others don't count airport layovers, or only care about them if they are longer than a certain number of hours.",
+  "links": [
+    {
+      "ns": 0,
+      "title": "Afar"
+    },
+    {
+      "ns": 0,
+      "title": "Afghanistan"
+    },
+    {
+      "ns": 0,
+      "title": "Africa"
+    },
+    {
+      "ns": 0,
+      "title": "Albania"
+    },
+    {
+      "ns": 0,
+      "title": "Algeria"
+    },
+    {
+      "ns": 0,
+      "title": "Angola"
+    },
+    {
+      "ns": 0,
+      "title": "Antigua and Barbuda"
+    },
+    {
+      "ns": 0,
+      "title": "Argentina"
+    },
+    {
+      "ns": 0,
+      "title": "Asunci\u00f3n"
+    },
+    {
+      "ns": 0,
+      "title": "Australia"
+    },
+    {
+      "ns": 0,
+      "title": "Bahamas"
+    },
+    {
+      "ns": 0,
+      "title": "Bahrain"
+    },
+    {
+      "ns": 0,
+      "title": "Bangladesh"
+    },
+    {
+      "ns": 0,
+      "title": "Barbados"
+    },
+    {
+      "ns": 0,
+      "title": "Belize"
+    },
+    {
+      "ns": 0,
+      "title": "Benin"
+    },
+    {
+      "ns": 0,
+      "title": "Bhutan"
+    },
+    {
+      "ns": 0,
+      "title": "Bogot\u00e1"
+    },
+    {
+      "ns": 0,
+      "title": "Bolivia"
+    },
+    {
+      "ns": 0,
+      "title": "Bonaire"
+    },
+    {
+      "ns": 0,
+      "title": "Botswana"
+    },
+    {
+      "ns": 0,
+      "title": "Brazil"
+    },
+    {
+      "ns": 0,
+      "title": "Brunei"
+    },
+    {
+      "ns": 0,
+      "title": "Burkina Faso"
+    },
+    {
+      "ns": 0,
+      "title": "Burundi"
+    },
+    {
+      "ns": 0,
+      "title": "Cambodia"
+    },
+    {
+      "ns": 0,
+      "title": "Cameroon"
+    },
+    {
+      "ns": 0,
+      "title": "Cape Verde"
+    },
+    {
+      "ns": 0,
+      "title": "Central African Republic"
+    },
+    {
+      "ns": 0,
+      "title": "Central America"
+    },
+    {
+      "ns": 0,
+      "title": "Chaco (province)"
+    },
+    {
+      "ns": 0,
+      "title": "Chad"
+    },
+    {
+      "ns": 0,
+      "title": "China"
+    },
+    {
+      "ns": 0,
+      "title": "Christmas Island"
+    },
+    {
+      "ns": 0,
+      "title": "Cocos Islands"
+    },
+    {
+      "ns": 0,
+      "title": "Colombia"
+    },
+    {
+      "ns": 0,
+      "title": "Corrientes"
+    },
+    {
+      "ns": 0,
+      "title": "Costa Rica"
+    },
+    {
+      "ns": 0,
+      "title": "Cote d'Ivoire"
+    },
+    {
+      "ns": 0,
+      "title": "Cuba"
+    },
+    {
+      "ns": 0,
+      "title": "Cura\u00e7ao"
+    },
+    {
+      "ns": 0,
+      "title": "Cusco"
+    },
+    {
+      "ns": 0,
+      "title": "C\u00f4te d'Ivoire"
+    },
+    {
+      "ns": 0,
+      "title": "Democratic Republic of the Congo"
+    },
+    {
+      "ns": 0,
+      "title": "Djibouti"
+    },
+    {
+      "ns": 0,
+      "title": "Dominica"
+    },
+    {
+      "ns": 0,
+      "title": "East Timor"
+    },
+    {
+      "ns": 0,
+      "title": "Eastern Ethiopia"
+    },
+    {
+      "ns": 0,
+      "title": "Ecuador"
+    },
+    {
+      "ns": 0,
+      "title": "Egypt"
+    },
+    {
+      "ns": 0,
+      "title": "El Salvador"
+    },
+    {
+      "ns": 0,
+      "title": "Equatorial Guinea"
+    },
+    {
+      "ns": 0,
+      "title": "Eritrea"
+    },
+    {
+      "ns": 0,
+      "title": "Eswatini"
+    },
+    {
+      "ns": 0,
+      "title": "Ethiopia"
+    },
+    {
+      "ns": 0,
+      "title": "Fiji"
+    },
+    {
+      "ns": 0,
+      "title": "Formosa (province)"
+    },
+    {
+      "ns": 0,
+      "title": "French Guiana"
+    },
+    {
+      "ns": 0,
+      "title": "French Polynesia"
+    },
+    {
+      "ns": 0,
+      "title": "Gabon"
+    },
+    {
+      "ns": 0,
+      "title": "Gambia"
+    },
+    {
+      "ns": 0,
+      "title": "Ghana"
+    },
+    {
+      "ns": 0,
+      "title": "Grenada"
+    },
+    {
+      "ns": 0,
+      "title": "Guadeloupe"
+    },
+    {
+      "ns": 0,
+      "title": "Guatemala"
+    },
+    {
+      "ns": 0,
+      "title": "Guinea"
+    },
+    {
+      "ns": 0,
+      "title": "Guinea-Bissau"
+    },
+    {
+      "ns": 0,
+      "title": "Guyana"
+    },
+    {
+      "ns": 0,
+      "title": "Haiti"
+    },
+    {
+      "ns": 0,
+      "title": "Honduras"
+    },
+    {
+      "ns": 0,
+      "title": "Hong Kong"
+    },
+    {
+      "ns": 0,
+      "title": "Iguaz\u00fa Falls"
+    },
+    {
+      "ns": 0,
+      "title": "Inca Trail"
+    },
+    {
+      "ns": 0,
+      "title": "India"
+    },
+    {
+      "ns": 0,
+      "title": "Indonesia"
+    },
+    {
+      "ns": 0,
+      "title": "Iran"
+    },
+    {
+      "ns": 0,
+      "title": "Iraq"
+    },
+    {
+      "ns": 0,
+      "title": "Jamaica"
+    },
+    {
+      "ns": 0,
+      "title": "Jordan"
+    },
+    {
+      "ns": 0,
+      "title": "Jujuy"
+    },
+    {
+      "ns": 0,
+      "title": "Kazakhstan"
+    },
+    {
+      "ns": 0,
+      "title": "Kenya"
+    },
+    {
+      "ns": 0,
+      "title": "Khartoum"
+    },
+    {
+      "ns": 0,
+      "title": "Kiribati"
+    },
+    {
+      "ns": 0,
+      "title": "Kyrgyzstan"
+    },
+    {
+      "ns": 0,
+      "title": "Laos"
+    },
+    {
+      "ns": 0,
+      "title": "Lesotho"
+    },
+    {
+      "ns": 0,
+      "title": "Liberia"
+    },
+    {
+      "ns": 0,
+      "title": "Libya"
+    },
+    {
+      "ns": 0,
+      "title": "Lima"
+    },
+    {
+      "ns": 0,
+      "title": "Macau"
+    },
+    {
+      "ns": 0,
+      "title": "Machu Picchu"
+    },
+    {
+      "ns": 0,
+      "title": "Madagascar"
+    },
+    {
+      "ns": 0,
+      "title": "Malawi"
+    },
+    {
+      "ns": 0,
+      "title": "Malaysia"
+    },
+    {
+      "ns": 0,
+      "title": "Maldives"
+    },
+    {
+      "ns": 0,
+      "title": "Mali"
+    },
+    {
+      "ns": 0,
+      "title": "Malta"
+    },
+    {
+      "ns": 0,
+      "title": "Martinique"
+    },
+    {
+      "ns": 0,
+      "title": "Mauritania"
+    },
+    {
+      "ns": 0,
+      "title": "Mauritius"
+    },
+    {
+      "ns": 0,
+      "title": "Mayotte"
+    },
+    {
+      "ns": 0,
+      "title": "Misiones"
+    },
+    {
+      "ns": 0,
+      "title": "Montserrat"
+    },
+    {
+      "ns": 0,
+      "title": "Mosquitoes"
+    },
+    {
+      "ns": 0,
+      "title": "Mozambique"
+    },
+    {
+      "ns": 0,
+      "title": "Myanmar"
+    },
+    {
+      "ns": 0,
+      "title": "Namibia"
+    },
+    {
+      "ns": 0,
+      "title": "Nauru"
+    },
+    {
+      "ns": 0,
+      "title": "Nepal"
+    },
+    {
+      "ns": 0,
+      "title": "Netherlands Antilles"
+    },
+    {
+      "ns": 0,
+      "title": "New Caledonia"
+    },
+    {
+      "ns": 0,
+      "title": "Niger"
+    },
+    {
+      "ns": 0,
+      "title": "Nigeria"
+    },
+    {
+      "ns": 0,
+      "title": "Niue"
+    },
+    {
+      "ns": 0,
+      "title": "Norfolk Island"
+    },
+    {
+      "ns": 0,
+      "title": "North Korea"
+    },
+    {
+      "ns": 0,
+      "title": "Oman"
+    },
+    {
+      "ns": 0,
+      "title": "Pakistan"
+    },
+    {
+      "ns": 0,
+      "title": "Panama"
+    },
+    {
+      "ns": 0,
+      "title": "Paraguay"
+    },
+    {
+      "ns": 0,
+      "title": "Peru"
+    },
+    {
+      "ns": 0,
+      "title": "Philippines"
+    },
+    {
+      "ns": 0,
+      "title": "Pitcairn Islands"
+    },
+    {
+      "ns": 0,
+      "title": "Republic of the Congo"
+    },
+    {
+      "ns": 0,
+      "title": "Reunion"
+    },
+    {
+      "ns": 0,
+      "title": "Rwanda"
+    },
+    {
+      "ns": 0,
+      "title": "Saba"
+    },
+    {
+      "ns": 0,
+      "title": "Saint Barthelemy"
+    },
+    {
+      "ns": 0,
+      "title": "Saint Helena (island)"
+    },
+    {
+      "ns": 0,
+      "title": "Saint Kitts and Nevis"
+    },
+    {
+      "ns": 0,
+      "title": "Saint Lucia"
+    },
+    {
+      "ns": 0,
+      "title": "Saint Martin"
+    },
+    {
+      "ns": 0,
+      "title": "Saint Vincent and the Grenadines"
+    },
+    {
+      "ns": 0,
+      "title": "Salta (province)"
+    },
+    {
+      "ns": 0,
+      "title": "Samoa"
+    },
+    {
+      "ns": 0,
+      "title": "Sao Tome and Principe"
+    },
+    {
+      "ns": 0,
+      "title": "Saudi Arabia"
+    },
+    {
+      "ns": 0,
+      "title": "Senegal"
+    },
+    {
+      "ns": 0,
+      "title": "Seychelles"
+    },
+    {
+      "ns": 0,
+      "title": "Sierra Leone"
+    },
+    {
+      "ns": 0,
+      "title": "Singapore"
+    },
+    {
+      "ns": 0,
+      "title": "Sint Eustatius"
+    },
+    {
+      "ns": 0,
+      "title": "Solomon Islands"
+    },
+    {
+      "ns": 0,
+      "title": "Somalia"
+    },
+    {
+      "ns": 0,
+      "title": "South Africa"
+    },
+    {
+      "ns": 0,
+      "title": "South America"
+    },
+    {
+      "ns": 0,
+      "title": "South Sudan"
+    },
+    {
+      "ns": 0,
+      "title": "Sri Lanka"
+    },
+    {
+      "ns": 0,
+      "title": "Sudan"
+    },
+    {
+      "ns": 0,
+      "title": "Suriname"
+    },
+    {
+      "ns": 0,
+      "title": "Tanzania"
+    },
+    {
+      "ns": 0,
+      "title": "Thailand"
+    },
+    {
+      "ns": 0,
+      "title": "The Gambia"
+    },
+    {
+      "ns": 0,
+      "title": "Togo"
+    },
+    {
+      "ns": 0,
+      "title": "Travel topics"
+    },
+    {
+      "ns": 0,
+      "title": "Trinidad"
+    },
+    {
+      "ns": 0,
+      "title": "Trinidad and Tobago"
+    },
+    {
+      "ns": 0,
+      "title": "Tropical diseases"
+    },
+    {
+      "ns": 0,
+      "title": "Uganda"
+    },
+    {
+      "ns": 0,
+      "title": "Venezuela"
+    },
+    {
+      "ns": 0,
+      "title": "Vietnam"
+    },
+    {
+      "ns": 0,
+      "title": "Zambia"
+    },
+    {
+      "ns": 0,
+      "title": "Zimbabwe"
+    }
+  ]
+}
